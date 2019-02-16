@@ -40,4 +40,6 @@ public class TodoBusinessServiceJavaStubTest {
 		System.out.println(todos);
 		assertEquals(2, todos.size());
 	}
+	
+	// This is a change for all developers
 }
